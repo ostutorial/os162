@@ -1,60 +1,60 @@
 01 161129-0507 1406573766 http://tugas-os162.blogspot.co.id/2016/11/anatomy-of-filesystems-posted-by-benno.html
 
-02 161129-1839 1406559093 1406558986https://johannestobing.blogspot.co.id/2016/11/ulasan1.html
+02 161129-1839 1406559093 1406558986 https://johannestobing.blogspot.co.id/2016/11/ulasan1.html
 
 03 161129-2231 1506731694 http://vincent51-ulasan1.blogspot.co.id/2016/11/ulasan-1-virtualization.html
 
-04 161201-1032 1406623745https://psudeosudo.blogspot.co.id/2016/11/linux-sucks.html
+04 161201-1032 1406623745 https://psudeosudo.blogspot.co.id/2016/11/linux-sucks.html
 
-05 161201-1420 1406622944 1406568923http://rahmanfathin.blogspot.co.id/2016/11/ulasan-1.html
+05 161201-1420 1406622944 1406568923 http://rahmanfathin.blogspot.co.id/2016/11/ulasan-1.html
 
-06 161201-2012 1406543750 1406623663http://putrirmd.blogspot.co.id/2016/12/cloud-computing.html
+06 161201-2012 1406543750 1406623663 http://putrirmd.blogspot.co.id/2016/12/cloud-computing.html
 
-07 161204-1724 1606955076http://zetlogger.blogspot.co.id/2016/12/what-are-containers-and-why-are-they-so.html
+07 161204-1724 1606955076 http://zetlogger.blogspot.co.id/2016/12/what-are-containers-and-why-are-they-so.html
 
-08 161204-2142 1406623695https://otonaenomichi.blogspot.co.id/2016/12/hybrid-cloud-infrastructure.html
+08 161204-2142 1406623695 https://otonaenomichi.blogspot.co.id/2016/12/hybrid-cloud-infrastructure.html
 
-09 161204-2009 1606858560http://anissaedwita.blogspot.co.id/2016/11/ulasan1.html
+09 161204-2009 1606858560 http://anissaedwita.blogspot.co.id/2016/11/ulasan1.html
 
 10 161205-1234 1606946361 http://indahp-os162-ulasan.blogspot.co.id/2016/12/overview-active-directory-directory_4.html
 
-11 161205-1610 1606954823http://twobunny22.blogspot.co.id/2016/12/ulasan-1-operating-system.html
+11 161205-1610 1606954823 http://twobunny22.blogspot.co.id/2016/12/ulasan-1-operating-system.html
 
-12 161206-0837 1206208422http://fascalgh.blogspot.co.id/2016/12/ulasan-1.html
+12 161206-0837 1206208422 http://fascalgh.blogspot.co.id/2016/12/ulasan-1.html
 
-13 161206-1109 1606954893 1606954722http://muhammadiqbalnazulis.blogspot.co.id/2016/12/ulasan-1-kesempatan-kali-ini-saya-akan.html
+13 161206-1109 1606954893 1606954722 http://muhammadiqbalnazulis.blogspot.co.id/2016/12/ulasan-1-kesempatan-kali-ini-saya-akan.html
 
-14 161206-1205 1606954911https://muhammadnuim.blogspot.co.id/2016/12/file-sharing.html
+14 161206-1205 1606954911 https://muhammadnuim.blogspot.co.id/2016/12/file-sharing.html
 
-15 161206-1607 1606955012http://harunakaze.blogspot.co.id/2016/12/zephyr-rtos.html
+15 161206-1607 1606955012 http://harunakaze.blogspot.co.id/2016/12/zephyr-rtos.html
 
-16 161207-1721 1606946443 1606858642http://nadianurannisa7.blogspot.com/2016/12/ulasan-1-principles-of-operating-system.html
+16 161207-1721 1606946443 1606858642 http://nadianurannisa7.blogspot.com/2016/12/ulasan-1-principles-of-operating-system.html
 
 17 161208-0300 1406623410 1406574825 http://dwitri-rizkydarmawan.blogspot.co.id/2016/12/ulasan-1.html
 
-18 161208-1632 1606954786 1606954773http://catatanpartoba.blogspot.sg/2016/12/ulasan-1.html
+18 161208-1632 1606954786 1606954773 http://catatanpartoba.blogspot.sg/2016/12/ulasan-1.html
 
-19 161207-2326 1506711042http://joshiarheinier.blogspot.co.id/2016/12/ulasan-1.html
+19 161207-2326 1506711042 http://joshiarheinier.blogspot.co.id/2016/12/ulasan-1.html
 
-20 161208-2325 1506791756 1506791781http://keynekassapa13.blogspot.co.id/2016/12/review1-deadlock.html
+20 161208-2325 1506791756 1506791781 http://keynekassapa13.blogspot.co.id/2016/12/review1-deadlock.html
 
 21 161209-0925 1506711004 http://rizkyaly.blogspot.co.id/2016/12/the-video-that-im-reviewing-for-my-os.html
 
-22 161209-1105 1406557535http://luthviar.blogspot.co.id/2016/11/ulasan-1-android-architecture.html
+22 161209-1105 1406557535 http://luthviar.blogspot.co.id/2016/11/ulasan-1-android-architecture.html
 
-23 161209-1627 1606954691http://ahmdnbeel.blogspot.co.id/2016/12/simple-schedulers.html
+23 161209-1627 1606954691 http://ahmdnbeel.blogspot.co.id/2016/12/simple-schedulers.html
 
 24 161209-2213 1606946380 http://khumaisa-os162.blogspot.co.id/p/ulasan1.html
 
-25 161209-2234 1306396851 1306386693http://tajghinaqf.blogspot.co.id/2016/12/ulasan-1.html
+25 161209-2234 1306396851 1306386693 http://tajghinaqf.blogspot.co.id/2016/12/ulasan-1.html
 
-26 161209 - 2306 1506791693 1506710986http://alvinrezalugiana.blogspot.co.id/2016/12/operating-system-introduction-to-hacking.html
+26 161209 - 2306 1506791693 1506710986 http://alvinrezalugiana.blogspot.co.id/2016/12/operating-system-introduction-to-hacking.html
 
-27 161209-2311 1506711055http://luthfanrasyad.blogspot.co.id/2016/12/ulasan-1-network-convergence.html
+27 161209-2311 1506711055 http://luthfanrasyad.blogspot.co.id/2016/12/ulasan-1-network-convergence.html
 
-28 161209-2341 1506791724http://awdictas.blogspot.com/2016/12/review1-cloud-based-network-management.html
+28 161209-2341 1506791724 http://awdictas.blogspot.com/2016/12/review1-cloud-based-network-management.html
 
-29 161210-0208 1506710986 1506791693http://risyadhasbullah.blogspot.co.id/2016/12/introduction-to-hacking.html
+29 161210-0208 1506710986 1506791693 http://risyadhasbullah.blogspot.co.id/2016/12/introduction-to-hacking.html
 
 30 161210-0846 1606858573 http://fitriasari-os162.blogspot.co.id/2016/12/ulasan-1.html
 
@@ -62,11 +62,11 @@
 
 32 161210-12151606858623 http://www.kompidolar.com/2016/12/mass-storage-system.htm
 
-33 161210-1508 1606954930https://mathisgold.blogspot.co.id/2016/12/thread-fundamentals-advanced-net.html
+33 161210-1508 1606954930 https://mathisgold.blogspot.co.id/2016/12/thread-fundamentals-advanced-net.html
 
 34 161210-1618 1506710973 http://ahmadhilman-os162.blogspot.co.id/2016/12/hybrid-cloud-infrastructure-introduction.html
 
-35 161210-1947 1506711036http://tugasos162.blogspot.co.id/2016/12/windows-10-your-own-creepy-stalker.html
+35 161210-1947 1506711036 http://tugasos162.blogspot.co.id/2016/12/windows-10-your-own-creepy-stalker.html
 
 36 161210-20471606954685 http://pnhbnlbib.blogspot.co.id/2016/12/web-server.html
 
@@ -74,15 +74,15 @@
 
 38 161210-2304 1406546191 http://os162-rrrsss.blogspot.co.id/2016/12/ulasan-1.html
 
-39 161210-2310 16069547351606954792 http://arrikur.blogspot.co.id/2016/12/os162-ulasan1-protection-security.html
+39 161210-2310 1606954735 1606954792 http://arrikur.blogspot.co.id/2016/12/os162-ulasan1-protection-security.html
 
 40 161210-23181406543776 1406623625 http://os162fasilkom.blogspot.co.id/2016/12/ulasan1.html
 
 41 161210-2323 1406565436 http://rezadymunaf.blogspot.co.id/
 
-42 161210-2347 1406543782http://andhitanurulainun.blogspot.co.id/2016/12/ulasan-1.html
+42 161210-2347 1406543782 http://andhitanurulainun.blogspot.co.id/2016/12/ulasan-1.html
 
-43 161210-2352 1306381780http://yosramba.blogspot.co.id/2016/12/os-ulasan-1.html
+43 161210-2352 1306381780 http://yosramba.blogspot.co.id/2016/12/os-ulasan-1.html
 
 44 161211-06131406567385 http://ismailrajir.blogspot.co.id/2016/12/internet-of-things.html
 
