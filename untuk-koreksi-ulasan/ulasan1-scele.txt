@@ -48,7 +48,7 @@
 
 25 161209-2234 1306396851 1306386693 http://tajghinaqf.blogspot.co.id/2016/12/ulasan-1.html
 
-26 161209 - 2306 1506791693 1506710986 http://alvinrezalugiana.blogspot.co.id/2016/12/operating-system-introduction-to-hacking.html
+26 161209-2306 1506791693 1506710986 http://alvinrezalugiana.blogspot.co.id/2016/12/operating-system-introduction-to-hacking.html
 
 27 161209-2311 1506711055 http://luthfanrasyad.blogspot.co.id/2016/12/ulasan-1-network-convergence.html
 
@@ -58,9 +58,9 @@
 
 30 161210-0846 1606858573 http://fitriasari-os162.blogspot.co.id/2016/12/ulasan-1.html
 
-31 161210-0951 15067917621506710954 http://louissihombing.blogspot.co.id/2016/12/controlling-hijacking-attacks.html
+31 161210-0951 1506791762 1506710954 http://louissihombing.blogspot.co.id/2016/12/controlling-hijacking-attacks.html
 
-32 161210-12151606858623 http://www.kompidolar.com/2016/12/mass-storage-system.htm
+32 161210-1215 1606858623 http://www.kompidolar.com/2016/12/mass-storage-system.htm
 
 33 161210-1508 1606954930 https://mathisgold.blogspot.co.id/2016/12/thread-fundamentals-advanced-net.html
 
@@ -68,7 +68,7 @@
 
 35 161210-1947 1506711036 http://tugasos162.blogspot.co.id/2016/12/windows-10-your-own-creepy-stalker.html
 
-36 161210-20471606954685 http://pnhbnlbib.blogspot.co.id/2016/12/web-server.html
+36 161210-2047 1606954685 http://pnhbnlbib.blogspot.co.id/2016/12/web-server.html
 
 37 http://calmcoding-en.blogspot.co.id/2016/12/maintaining-your-hard-drive.html?m=1
 
@@ -76,7 +76,7 @@
 
 39 161210-2310 1606954735 1606954792 http://arrikur.blogspot.co.id/2016/12/os162-ulasan1-protection-security.html
 
-40 161210-23181406543776 1406623625 http://os162fasilkom.blogspot.co.id/2016/12/ulasan1.html
+40 161210-2318 1406543776 1406623625 http://os162fasilkom.blogspot.co.id/2016/12/ulasan1.html
 
 41 161210-2323 1406565436 http://rezadymunaf.blogspot.co.id/
 
@@ -84,9 +84,9 @@
 
 43 161210-2352 1306381780 http://yosramba.blogspot.co.id/2016/12/os-ulasan-1.html
 
-44 161211-06131406567385 http://ismailrajir.blogspot.co.id/2016/12/internet-of-things.html
+44 161211-0613 1406567385 http://ismailrajir.blogspot.co.id/2016/12/internet-of-things.html
 
-45 161211-09341606955050 http://stephanussoekendar.blogspot.com/2016/12/ulasan-1-osv-sistem-operasi-untuk-java.html
+45 161211-0934 1606955050 http://stephanussoekendar.blogspot.com/2016/12/ulasan-1-osv-sistem-operasi-untuk-java.html
 
 46 161210-1218 1406558992 1406623846 http://izzanzan.blogspot.co.id/2016/12/exam-70-483-programming-with-c.html
 
