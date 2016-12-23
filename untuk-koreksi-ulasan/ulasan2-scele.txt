@@ -1,0 +1,89 @@
+00 161121-0600 9876543210 9876543211 9876543212 http://os162.blogspot.com/
+
+01 161129-2329 1406559093 1406558986 https://johannestobing.blogspot.co.id/2016/11/ulasan2.html
+
+02 161203-1220 1506731694 http://vincent51-ulasan1.blogspot.co.id/2016/12/ulasan-2-servers.html
+
+03 161205-0606 1606858560 http://anissaedwita.blogspot.co.id/2016/11/ulasan2.html
+
+04 161206-1030 1606954823 http://twobunny22.blogspot.co.id/2016/12/ulasan-2-operating-system.html
+
+05 161206-1205 1606946361 http://indahp-os162-ulasan.blogspot.co.id/2016/12/understanding-switches.html 
+
+06 161207-1605 1606954911 https://muhammadnuim.blogspot.co.id/2016/12/raids.html
+
+07 161207-1745 1606858642 1606946443 http://pamelakareen.blogspot.co.id/2016/12/ulasan-2-principles-of-operating.html
+
+08 161207-1819 1606955076 http://zetlogger.blogspot.co.id/2016/12/apache-hadoop-modern-data-os.html
+
+09 161207-2205 1206208422 http://fascalgh.blogspot.co.id/2016/12/ulasan-2.html
+
+10 161208-0027 1606955012 http://harunakaze.blogspot.co.id/2016/12/steamos.html
+
+11 161208-0903 1606954893 1606954722 http://muhammadiqbalnazulis.blogspot.co.id/2016/12/ulasan-2-pada-kesempatan-ini.html
+
+12 161208-2325 1506791756 1506791781 http://keynekassapa13.blogspot.co.id/2016/12/review2-io-system-and-device-drivers.html
+
+13 161209-1348 1506711042 http://joshiarheinier.blogspot.co.id/2016/12/ulasan-2.html
+
+14 161209-2307 1506791693 1506710986 http://alvinrezalugiana.blogspot.co.id/2016/12/ulasan-2-operating-system-networking.html
+
+15 161210-0049 1306386693 1306396851 http://ardifasilkom.blogspot.co.id/2016/12/ulasan-1-microduino-marketing-director.html
+
+16 161210-0056 1406623695 http://otonaenomichi.blogspot.co.id/2016/12/understanding-server-licensing-ulasan-2.html
+
+17 161210-0303 1606954773 1606954786 http://catatanpartoba.blogspot.co.id/2016/12/ulasan-2_9.html
+
+18 161210-0951 1406623410 1406574825 http://dwitri-rizkydarmawan.blogspot.co.id/2016/12/ulasan-2.html
+
+19 161210-1012 1506711055 http://luthfanrasyad.blogspot.co.id/2016/12/ulasan-2-aws-cloud-storage.html
+
+20 161210-1310 1406557535 1406622856 http://aws-os.blogspot.co.id/2016/12/pada-ulasan-kedua-kali-ini-saya-akan.html
+
+21 161210-1513 1606858573 http://fitriasari-os162.blogspot.co.id/2016/12/ulasan-2_9.html
+
+22 161210-1600 1606858623 http://www.kompidolar.com/2016/12/fork-dan-exec.html
+
+23 161210-1613 1506791762 1506710954 http://louissihombing.blogspot.co.id/2016/12/threat-models.html
+
+24 161210-1644 1606946380 http://khumaisa-os162.blogspot.co.id/p/ulasan2.html
+
+25 161210-1801 1506710973 http://ahmadhilman-os162.blogspot.co.id/2016/12/introduction-to-practical-hacking-and.html
+
+26 161210-1907 1506711004 http://rizkyaly.blogspot.co.id/2016/12/ulasan-2.html
+
+27 161210-2015 1606954691 http://ahmdnbeel.blogspot.co.id/2016/12/files.html
+
+28 1612.10-2048 1606954685 http://pnhbnlbib.blogspot.co.id/2016/12/symmetric-cryptography.html
+
+29 161210-2203 1406623745 http://psudeosudo.blogspot.co.id/2016/12/blog-post.html
+
+30 161210-2210 1606954930 https://mathisgold.blogspot.com.tr/2016/12/introduction-to-active-directory.html
+
+31 161210-2222 1506791724 http://awdictas.blogspot.com/2016/12/os162-review2-writing-bad-malware-for.html
+
+32 161210-18:00 1606954804 http://calmcoding-en.blogspot.co.id/2016/12/knowing-hard-drive-hdd-and-ssd.html?m=1
+
+33 161210-230252 1406546191 http://os162-rrrsss.blogspot.co.id/2016/12/ulasan-2.html
+
+34 161210-2312 1606954735 1606954792 http://arrikur.blogspot.co.id/2016/12/os162-ulasan2-weaknesses-of-ms-windows.html
+
+35 161210-2322 1406543776 1406623625 http://os162fasilkom.blogspot.co.id/2016/12/ulasan2.html
+
+36 161210-2325 1406573766 http://tugas-os162.blogspot.co.id/2016/12/ulasan-2.html
+
+37 161210-2347 1506711036 http://tugasos162.blogspot.co.id/2016/12/the-code-story-of-linux-documentary.html
+
+38 161210-2348 1406543750 1406623663 http://ulasan2putrireitasya.blogspot.co.id/2016/12/principle-of-operating-system.html
+
+39 161210-2348 1406622944 1406568923 http://rahmanfathin.blogspot.co.id/2016/12/ulasan2.html
+
+40 161210-2348 1306381780 http://yosramba.blogspot.co.id/2016/12/os-ulasan-2.html
+
+41 161211-0943 1606955050 http://stephanussoekendar.blogspot.co.id/2016/12/ulasan-2-windows-azure-sebagai-iaas.html
+
+42 161210-2241 1406558992 1406623846 http://izzanzan.blogspot.co.id/2016/12/the-proper-role-of-copyright-in.html
+
+43 161616 2257 1606954874 http://mustknowos.blogspot.co.id/2016/12/ulasan-2.html
+
+44 161212-2359 1306500441 http://adityaerlangga91.blogspot.co.id/2016/12/ulasan-2-operating-systems.html
